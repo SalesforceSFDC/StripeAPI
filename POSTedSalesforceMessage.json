@@ -1,0 +1,15 @@
+{
+	"id": "ch_abcdefghijklmnopqrstuvwx", 
+	"amount": 9900, 
+	"description": "greg@interactiveties.com", 
+	"source": { 
+		"id": "card_19mlu82GgpHzUJkgFLGaSS8e", 
+		"brand": "American Express", 
+		"exp_month": 11, 
+		"exp_year": 2020, 
+		"last4": "2222", 
+		"name": "greg@interactiveties.com", 
+	}, 
+	"status": "succeeded", 
+	"type": "charge.succeeded" 
+}
