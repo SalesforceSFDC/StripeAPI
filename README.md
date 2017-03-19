@@ -1,1 +1,1 @@
-# StripeAPI
+# Stripe API
